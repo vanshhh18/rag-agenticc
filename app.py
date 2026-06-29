@@ -209,4 +209,3 @@ Generic Answer: {generic_response}"""
         st.error(f"**Error:** {e}")
         st.code(traceback.format_exc())
 
-
